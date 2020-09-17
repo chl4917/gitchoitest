@@ -3,6 +3,7 @@ package com.git;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+        System.out.print("안녕하세요 최현명입니다.");
     }
 }
